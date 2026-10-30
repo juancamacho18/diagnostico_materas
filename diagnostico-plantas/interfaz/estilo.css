@@ -1,0 +1,35 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #f4f4f4; color: #222; font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 1.4; }
+.barra { background: #2e5339; color: #fff; padding: 14px 24px; display: flex; justify-content: space-between; align-items: center; }
+.marca { font-weight: bold; font-size: 18px; }
+main { max-width: 1000px; margin: 24px auto; padding: 0 16px; display: flex; flex-direction: column; gap: 16px; }
+.caja { background: #fff; border: 1px solid #c8c8c8; padding: 20px; }
+.angosta { max-width: 420px; width: 100%; }
+#vista-auth { margin: 24px auto 0; }
+#vista-app { display: flex; flex-direction: column; gap: 16px; }
+h1 { font-size: 22px; margin: 0 0 12px; }
+h2 { font-size: 18px; margin: 0 0 8px; }
+h3 { font-size: 15px; margin: 16px 0 6px; }
+form { display: flex; flex-direction: column; gap: 6px; }
+label { margin-top: 6px; }
+input, select { height: 40px; border: 1px solid #8a8a8a; padding: 0 10px; font-size: 15px; font-family: inherit; background: #fff; color: #222; }
+button { height: 42px; border: 0; background: #2e5339; color: #fff; font-weight: bold; font-size: 15px; cursor: pointer; padding: 0 18px; margin-top: 10px; }
+button.secundario { background: #fff; color: #2e5339; border: 1px solid #2e5339; }
+button.enlace { background: none; margin: 0 0 0 12px; height: auto; padding: 0; text-decoration: underline; font-weight: normal; }
+button.tabla { height: 32px; margin: 0; padding: 0 12px; }
+.tabla-wrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; min-width: 560px; }
+th { background: #e9e9e9; text-align: left; }
+th, td { padding: 9px 12px; border-top: 1px solid #c8c8c8; }
+.etiqueta { padding: 3px 8px; font-size: 13px; font-weight: bold; margin-left: 6px; }
+.SALUDABLE { background: #dff0e5; color: #14532d; }
+.EN_RIESGO { background: #fdf0cc; color: #6b4500; }
+.CRITICO { background: #f9dcd9; color: #8c1d18; }
+.parametros { list-style: none; padding: 0; margin: 8px 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.parametros li { border: 1px solid #c8c8c8; padding: 10px 14px; min-width: 190px; }
+.suave { color: #555; }
+.mensaje { padding: 10px 14px; border: 1px solid #8c1d18; background: #f9dcd9; color: #8c1d18; }
+.mensaje.ok { border-color: #14532d; background: #dff0e5; color: #14532d; }
+.aviso { margin-top: 12px; padding: 12px; border: 1px dashed #8a8a8a; background: #fafafa; font-size: 14px; }
+code { display: block; margin-top: 6px; word-break: break-all; font-size: 12px; }
+.oculto { display: none !important; }

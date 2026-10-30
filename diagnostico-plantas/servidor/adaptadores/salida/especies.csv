@@ -1,0 +1,70 @@
+especie,nombre_comun,humedad_min,humedad_max,luz_min,luz_max,temp_min,temp_max
+monstera deliciosa,Costilla de Adan,50.0,70.0,1500,5000,18.0,30.0
+epipremnum aureum,Potos dorado,40.0,60.0,500,3000,15.0,30.0
+philodendron hederaceum,Filodendro de hoja de corazon,40.0,60.0,500,3000,16.0,28.0
+spathiphyllum wallisii,Lirio de la paz,40.0,60.0,500,1500,15.0,30.0
+anthurium andraeanum,Anturio,60.0,80.0,1500,4000,18.0,30.0
+zamioculcas zamiifolia,Planta ZZ,30.0,50.0,250,2000,15.0,30.0
+aglaonema commutatum,Siempreverde chino,40.0,60.0,500,2500,16.0,28.0
+syngonium podophyllum,Singonio,50.0,70.0,1000,3500,16.0,28.0
+dieffenbachia seguine,Difenbaquia,50.0,70.0,1000,3000,16.0,28.0
+dracaena trifasciata,Lengua de suegra,20.0,40.0,250,5000,10.0,35.0
+chlorophytum comosum,Cinta,40.0,60.0,1000,4000,10.0,30.0
+dracaena fragrans,Tronco del Brasil,30.0,50.0,800,3000,15.0,30.0
+yucca gigantea,Yuca sin espinas,20.0,40.0,2000,6000,10.0,35.0
+beaucarnea recurvata,Pata de elefante,20.0,40.0,2000,6000,10.0,35.0
+asparagus setaceus,Helecho esparrago,50.0,70.0,1000,3500,10.0,28.0
+ficus lyrata,Ficus lira,50.0,70.0,2500,6000,15.0,30.0
+ficus elastica,Arbol del caucho,40.0,60.0,1500,5000,15.0,30.0
+ficus benjamina,Ficus benjamina,40.0,60.0,2000,5500,16.0,30.0
+ficus pumila,Higuera trepadora,55.0,75.0,1500,4500,15.0,28.0
+schlumbergera truncata,Cactus de Navidad,40.0,60.0,1500,4000,15.0,28.0
+opuntia microdasys,Nopal orejas de conejo,10.0,30.0,5000,15000,10.0,38.0
+kroenleinia grusonii,Cactus bola de oro,10.0,30.0,6000,18000,10.0,40.0
+mammillaria hahniana,Cactus viejita,10.0,30.0,5000,15000,10.0,35.0
+crassula ovata,Arbol de jade,20.0,40.0,2500,8000,10.0,30.0
+echeveria elegans,Bola de nieve mexicana,20.0,40.0,3000,10000,10.0,32.0
+sedum morganianum,Cola de burro,20.0,40.0,2500,8000,10.0,30.0
+kalanchoe tomentosa,Planta panda,20.0,40.0,2500,8000,12.0,30.0
+maranta leuconeura,Planta oracion,60.0,80.0,1000,3500,18.0,28.0
+goeppertia insignis,Calatea serpiente de cascabel,60.0,80.0,1000,3000,18.0,28.0
+peperomia obtusifolia,Peperomia de hoja redonda,40.0,60.0,1000,4000,15.0,28.0
+peperomia argyreia,Peperomia sandia,45.0,65.0,1000,3500,15.0,28.0
+streptocarpus ionanthus,Violeta africana,50.0,70.0,1000,3500,18.0,26.0
+aeschynanthus radicans,Planta del lapiz labial,50.0,70.0,1500,4000,18.0,28.0
+guzmania lingulata,Bromelia estrella escarlata,50.0,70.0,1500,4500,16.0,30.0
+wallisia cyanea,Bromelia pluma rosa,50.0,70.0,1500,4000,15.0,30.0
+ludisia discolor,Orquidea joya,60.0,80.0,500,2000,18.0,28.0
+nephrolepis exaltata,Helecho de Boston,65.0,85.0,1000,3500,15.0,28.0
+platycerium bifurcatum,Helecho cuerno de ciervo,60.0,80.0,1500,4500,15.0,30.0
+phlebodium aureum,Helecho azul,60.0,80.0,1000,3500,15.0,28.0
+chamaedorea elegans,Palmera de salon,40.0,60.0,500,2500,15.0,28.0
+dypsis lutescens,Palmera areca,50.0,70.0,2000,6000,16.0,30.0
+ravenea rivularis,Palmera majestad,55.0,75.0,2500,6500,16.0,30.0
+begonia maculata,Begonia lunares,55.0,75.0,1500,4000,16.0,28.0
+begonia rex-cultorum,Begonia rex,50.0,70.0,1000,3500,16.0,26.0
+pilea peperomioides,Planta china del dinero,40.0,60.0,1500,4500,13.0,30.0
+pilea involucrata,Planta de la amistad,55.0,75.0,1000,3500,16.0,28.0
+euphorbia trigona,Cactus africano de leche,20.0,40.0,3000,10000,15.0,32.0
+codiaeum variegatum,Croton,50.0,70.0,2500,8000,16.0,30.0
+plectranthus verticillatus,Hiedra sueca,40.0,60.0,1500,4500,15.0,28.0
+coleus scutellarioides,Coleo,45.0,65.0,2000,6000,15.0,30.0
+hoya carnosa,Flor de cera,40.0,60.0,2000,6000,15.0,30.0
+ceropegia woodii,Collar de corazones,30.0,50.0,2000,6000,15.0,30.0
+hedera helix,Hiedra comun,40.0,60.0,1000,4000,10.0,25.0
+tradescantia zebrina,Amor de hombre,40.0,60.0,1500,5000,15.0,28.0
+tradescantia fluminensis,Amor de hombre de hoja pequena,40.0,60.0,1000,4000,15.0,28.0
+oxalis triangularis,Trebol morado,40.0,60.0,2000,6000,15.0,26.0
+aloe vera,Sabila,20.0,40.0,2500,8000,13.0,32.0
+fittonia albivenis,Fitonia,65.0,85.0,500,2500,18.0,28.0
+hypoestes phyllostachya,Planta polka dot,50.0,70.0,1500,4500,18.0,28.0
+bougainvillea glabra,Buganvilia,30.0,50.0,5000,15000,15.0,35.0
+hibiscus rosa-sinensis,Cayena,50.0,70.0,4000,12000,15.0,32.0
+pachira aquatica,Arbol del dinero,45.0,65.0,1500,5000,16.0,30.0
+cyclamen persicum,Ciclamen,40.0,60.0,1500,4000,10.0,20.0
+aphelandra squarrosa,Planta cebra,55.0,75.0,1000,3500,16.0,28.0
+justicia brandegeeana,Planta camaron,55.0,75.0,2000,6000,16.0,28.0
+ruellia makoyana,Ruellia terciopelo,55.0,75.0,1000,3500,16.0,28.0
+strobilanthes auriculata dyeriana,Escudo persa,55.0,75.0,2000,6000,16.0,28.0
+chamaedorea seifrizii,Palmera bambu,45.0,65.0,1000,3500,16.0,30.0
+senecio macroglossus,Hiedra de cera,40.0,60.0,2000,6000,15.0,28.0

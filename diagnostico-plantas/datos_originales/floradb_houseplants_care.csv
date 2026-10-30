@@ -1,0 +1,84 @@
+plant_id,scientific_name,synonym_scientific_name,common_name,family,light_requirement_level,min_lux,max_lux,watering_frequency_days,min_temp_celsius,max_temp_celsius,ideal_humidity_percent,is_toxic_to_dogs,is_toxic_to_cats,toxicity_status,care_confidence,common_name_en,native_range,gbif_source_url
+1,Monstera deliciosa,,Swiss Cheese Plant,Araceae,Medium to Bright,1500,5000,7,18,30,60,1,1,aspca_verified,high,Ceriman,Middle America,https://www.gbif.org/species/2868241
+2,Epipremnum aureum,,Golden Pothos,Araceae,Medium to Low,500,3000,7,15,30,50,1,1,aspca_verified,high,Devil's Ivy,East Africa,https://www.gbif.org/species/2868323
+3,Philodendron hederaceum,,Heartleaf Philodendron,Araceae,Medium to Low,500,3000,7,16,28,50,1,1,aspca_verified,high,Vilevine,Colombia,https://www.gbif.org/species/2871003
+4,Spathiphyllum wallisii,,Peace Lily,Araceae,Medium to Low,500,1500,7,15,30,50,1,1,aspca_verified,high,Peace Lily,Galápagos Islands,https://www.gbif.org/species/2869680
+5,Anthurium andraeanum,,Flamingo Lily,Araceae,Medium to Bright,1500,4000,7,18,30,70,1,1,aspca_verified,high,Flamingo-Lily,Colombia,https://www.gbif.org/species/2872695
+6,Zamioculcas zamiifolia,,ZZ Plant,Araceae,Low,250,2000,14,15,30,40,1,1,aspca_verified,high,ZZ Plant,Kenya,https://www.gbif.org/species/2869014
+7,Aglaonema commutatum,,Chinese Evergreen,Araceae,Medium to Low,500,2500,10,16,28,50,1,1,aspca_verified,high,Chinese evergreen,Southern Asia,https://www.gbif.org/species/2866467
+8,Syngonium podophyllum,,Arrowhead Vine,Araceae,Medium to Bright,1000,3500,7,16,28,60,1,1,aspca_verified,high,African evergreen,Colombia,https://www.gbif.org/species/2867866
+10,Dieffenbachia seguine,,Dumb Cane,Araceae,Medium,1000,3000,7,16,28,60,1,1,aspca_verified,high,Dumb-cane,South America,https://www.gbif.org/species/2869345
+11,Dracaena trifasciata,Sansevieria trifasciata,Snake Plant,Asparagaceae,Low to Bright,250,5000,14,10,35,30,1,1,aspca_verified,high,Snake plant,Africa,https://www.gbif.org/species/11041822
+12,Chlorophytum comosum,,Spider Plant,Asparagaceae,Medium to Bright,1000,4000,7,10,30,50,0,0,aspca_verified,high,Bracket plant,East Africa,https://www.gbif.org/species/2774846
+14,Dracaena fragrans,,Corn Plant,Asparagaceae,Medium,800,3000,10,15,30,40,1,1,aspca_verified,high,Dracaena,Caribbean,https://www.gbif.org/species/5304583
+15,Yucca gigantea,Yucca elephantipes,Spineless Yucca,Asparagaceae,Bright Indirect,2000,6000,14,10,35,30,1,1,aspca_verified,high,Spineless Yucca,Caribbean,https://www.gbif.org/species/2775716
+16,Beaucarnea recurvata,,Ponytail Palm,Asparagaceae,Bright Indirect,2000,6000,14,10,35,30,0,0,aspca_verified,high,Elephant's-foot,Mexico,https://www.gbif.org/species/2768035
+17,Asparagus setaceus,,Asparagus Fern,Asparagaceae,Medium to Bright,1000,3500,5,10,28,60,1,1,aspca_verified,high,Asparagus Fern,Africa,https://www.gbif.org/species/2768686
+18,Ficus lyrata,,Fiddle Leaf Fig,Moraceae,Bright Indirect,2500,6000,7,15,30,60,1,1,aspca_verified,high,Fiddle-leaf Fig,Cameroon,https://www.gbif.org/species/5361899
+19,Ficus elastica,,Rubber Tree,Moraceae,Medium to Bright,1500,5000,7,15,30,50,1,1,aspca_verified,high,India Rubber Tree,Colombia,https://www.gbif.org/species/7835333
+20,Ficus benjamina,,Weeping Fig,Moraceae,Bright Indirect,2000,5500,7,16,30,50,1,1,aspca_verified,high,Ficus,India,https://www.gbif.org/species/5361932
+21,Ficus pumila,,Creeping Fig,Moraceae,Medium to Bright,1500,4500,5,15,28,65,1,1,aspca_verified,high,Climbing fig,Bogotá,https://www.gbif.org/species/5361930
+22,Schlumbergera truncata,,Christmas Cactus,Cactaceae,Bright Indirect,1500,4000,10,15,28,50,0,0,aspca_verified,high,False Christmas Cactus,Brazil,https://www.gbif.org/species/5383983
+23,Opuntia microdasys,,Bunny Ears Cactus,Cactaceae,Direct Sun,5000,15000,21,10,38,20,0,0,aspca_verified,high,Angel's-wings,Mexico,https://www.gbif.org/species/7283961
+24,Kroenleinia grusonii,Echinocactus grusonii,Golden Barrel Cactus,Cactaceae,Direct Sun,6000,18000,21,10,40,20,0,0,aspca_verified,high,barrel cactus,Mexico,https://www.gbif.org/species/10911827
+25,Mammillaria hahniana,,Old Lady Cactus,Cactaceae,Direct Sun,5000,15000,21,10,35,20,0,0,aspca_verified,high,old woman cactus,Mexico,https://www.gbif.org/species/7280027
+26,Crassula ovata,,Jade Plant,Crassulaceae,Bright Indirect,2500,8000,14,10,30,30,1,1,aspca_verified,high,Jade plant,South Africa,https://www.gbif.org/species/5362063
+27,Echeveria elegans,,Mexican Snowball,Crassulaceae,Bright Indirect,3000,10000,14,10,32,30,0,0,aspca_verified,high,Mexican snowball,Mexico,https://www.gbif.org/species/8315197
+28,Sedum morganianum,,Burro's Tail,Crassulaceae,Bright Indirect,2500,8000,14,10,30,30,0,0,aspca_verified,high,Donkeytail,Mexico,https://www.gbif.org/species/5690408
+29,Kalanchoe tomentosa,,Panda Plant,Crassulaceae,Bright Indirect,2500,8000,14,12,30,30,1,1,aspca_verified,high,Panda Plant,Madagascar,https://www.gbif.org/species/4198346
+30,Maranta leuconeura,,Prayer Plant,Marantaceae,Medium to Bright,1000,3500,5,18,28,70,0,0,aspca_verified,high,prayerplant,Brazil,https://www.gbif.org/species/2761337
+32,Goeppertia insignis,,Rattlesnake Plant,Marantaceae,Medium to Bright,1000,3000,5,18,28,70,0,0,aspca_verified,high,Rattlesnake-plant,Brazil,https://www.gbif.org/species/11035519
+33,Peperomia obtusifolia,,Baby Rubber Plant,Piperaceae,Medium to Bright,1000,4000,10,15,28,50,0,0,aspca_verified,high,American rubberplant,Caribbean,https://www.gbif.org/species/3086423
+34,Peperomia argyreia,,Watermelon Peperomia,Piperaceae,Medium to Bright,1000,3500,7,15,28,55,0,0,aspca_verified,high,watermelon pepper,Colombia,https://www.gbif.org/species/4189296
+35,Streptocarpus ionanthus,Saintpaulia ionantha,African Violet,Gesneriaceae,Medium to Bright,1000,3500,7,18,26,60,0,0,aspca_verified,high,African Violet,Tanzania,https://www.gbif.org/species/6710927
+36,Aeschynanthus radicans,,Lipstick Plant,Gesneriaceae,Bright Indirect,1500,4000,7,18,28,60,0,0,aspca_verified,high,lipstickplant,Malaysia,https://www.gbif.org/species/3824774
+37,Guzmania lingulata,,Scarlet Star Bromeliad,Bromeliaceae,Bright Indirect,1500,4500,7,16,30,60,0,0,aspca_verified,high,Droophead Tufted Airplant,South America,https://www.gbif.org/species/2699095
+38,Wallisia cyanea,,Pink Quill,Bromeliaceae,Bright Indirect,1500,4000,7,15,30,60,0,0,aspca_verified,high,Blue Torch,Ecuador,https://www.gbif.org/species/9556126
+40,Ludisia discolor,,Jewel Orchid,Orchidaceae,Medium to Low,500,2000,5,18,28,70,0,0,aspca_verified,high,jewel orchid,,https://www.gbif.org/species/8002439
+41,Nephrolepis exaltata,,Boston Fern,Nephrolepidaceae,Medium to Bright,1000,3500,4,15,28,75,0,0,aspca_verified,high,Boston Swordfern,North America,https://www.gbif.org/species/2650927
+42,Platycerium bifurcatum,,Staghorn Fern,Polypodiaceae,Bright Indirect,1500,4500,7,15,30,70,0,0,aspca_verified,high,Elkhorn Fern,Australia,https://www.gbif.org/species/7126767
+43,Phlebodium aureum,,Blue Star Fern,Polypodiaceae,Medium to Bright,1000,3500,5,15,28,70,0,0,aspca_verified,high,Gold-foot Fern,South Africa,https://www.gbif.org/species/2650479
+44,Chamaedorea elegans,,Parlor Palm,Arecaceae,Medium to Low,500,2500,7,15,28,50,0,0,aspca_verified,high,Neanthe bella palm,Middle America,https://www.gbif.org/species/2734661
+45,Dypsis lutescens,,Areca Palm,Arecaceae,Bright Indirect,2000,6000,7,16,30,60,0,0,aspca_verified,high,Areca palm,Madagascar,https://www.gbif.org/species/2735935
+46,Ravenea rivularis,,Majesty Palm,Arecaceae,Bright Indirect,2500,6500,5,16,30,65,0,0,aspca_verified,high,Majestic Palm,Madagascar,https://www.gbif.org/species/2739031
+47,Begonia maculata,,Polka Dot Begonia,Begoniaceae,Bright Indirect,1500,4000,5,16,28,65,1,1,aspca_verified,high,Cane Begonia,Brazil,https://www.gbif.org/species/7303475
+48,Begonia rex-cultorum,,Rex Begonia,Begoniaceae,Medium to Bright,1000,3500,7,16,26,60,1,1,aspca_verified,high,beefsteak-geranium,,https://www.gbif.org/species/4930983
+49,Pilea peperomioides,,Chinese Money Plant,Urticaceae,Bright Indirect,1500,4500,7,13,30,50,0,0,aspca_verified,high,Chinese money plant,China,https://www.gbif.org/species/5669632
+50,Pilea involucrata,,Friendship Plant,Urticaceae,Medium to Bright,1000,3500,5,16,28,65,0,0,aspca_verified,high,Clearweed,Colombia,https://www.gbif.org/species/2984417
+51,Euphorbia trigona,,African Milk Tree,Euphorbiaceae,Bright Indirect,3000,10000,14,15,32,30,1,1,aspca_verified,high,African milktree,Africa,https://www.gbif.org/species/3067098
+52,Codiaeum variegatum,,Croton,Euphorbiaceae,Bright Indirect,2500,8000,7,16,30,60,1,1,aspca_verified,high,Garden Croton,Bogotá,https://www.gbif.org/species/3071476
+53,Plectranthus verticillatus,,Swedish Ivy,Lamiaceae,Bright Indirect,1500,4500,7,15,28,50,0,0,aspca_verified,high,Gossip Spurflower,Africa,https://www.gbif.org/species/2926638
+54,Coleus scutellarioides,,Coleus,Lamiaceae,Bright Indirect,2000,6000,5,15,30,55,1,1,aspca_verified,high,Coleus,Australia,https://www.gbif.org/species/5341492
+55,Hoya carnosa,,Wax Plant,Apocynaceae,Bright Indirect,2000,6000,10,15,30,50,0,0,aspca_verified,high,Common Wax-plant,East Asia,https://www.gbif.org/species/8658195
+56,Ceropegia woodii,,String of Hearts,Apocynaceae,Bright Indirect,2000,6000,10,15,30,40,0,0,aspca_verified,high,Rosary Vine,South Africa,https://www.gbif.org/species/3572767
+57,Hedera helix,,English Ivy,Araliaceae,Medium to Bright,1000,4000,7,10,25,50,1,1,aspca_verified,high,English Ivy,Europe,https://www.gbif.org/species/8351737
+59,Tradescantia zebrina,,Wandering Dude,Commelinaceae,Bright Indirect,1500,5000,7,15,28,50,1,1,aspca_verified,high,Inch-plant,Middle America,https://www.gbif.org/species/2765359
+60,Tradescantia fluminensis,,Small-Leaf Spiderwort,Commelinaceae,Medium to Bright,1000,4000,7,15,28,50,1,1,aspca_verified,high,Small-leaf spiderwort,South America,https://www.gbif.org/species/2765156
+61,Oxalis triangularis,,False Shamrock,Oxalidaceae,Bright Indirect,2000,6000,7,15,26,50,1,1,aspca_verified,high,Wood Sorrel,Brazil,https://www.gbif.org/species/7156971
+62,Aloe vera,,Aloe Vera,Asphodelaceae,Bright Indirect,2500,8000,14,13,32,30,1,1,aspca_verified,high,Aloe,Africa,https://www.gbif.org/species/2777724
+64,Fittonia albivenis,,Nerve Plant,Acanthaceae,Medium to Low,500,2500,5,18,28,75,0,0,aspca_verified,high,mosaic-plant,South America,https://www.gbif.org/species/5574508
+65,Hypoestes phyllostachya,,Polka Dot Plant,Acanthaceae,Bright Indirect,1500,4500,5,18,28,60,0,0,aspca_verified,high,Baby's Tears,Madagascar,https://www.gbif.org/species/3173196
+66,Bougainvillea glabra,,Paper Flower,Nyctaginaceae,Direct Sun,5000,15000,10,15,35,40,0,0,aspca_verified,high,Bougainvillea,South America,https://www.gbif.org/species/5384862
+67,Hibiscus rosa-sinensis,,Chinese Hibiscus,Malvaceae,Direct Sun,4000,12000,5,15,32,60,1,1,aspca_verified,high,China-rose,Asia,https://www.gbif.org/species/3152559
+68,Pachira aquatica,,Money Tree,Malvaceae,Bright Indirect,1500,5000,7,16,30,55,0,0,aspca_verified,high,Guiana-Chestnut,Colombia,https://www.gbif.org/species/3152235
+69,Cyclamen persicum,,Florist's Cyclamen,Primulaceae,Bright Indirect,1500,4000,7,10,20,50,1,1,aspca_verified,high,Common Cyclamen,Mediterranean,https://www.gbif.org/species/3169317
+70,Aphelandra squarrosa,,Zebra Plant,Acanthaceae,Medium to Bright,1000,3500,6,16,28,65,0,0,aspca_verified,medium,Zebra-plant,Brazil,https://www.gbif.org/species/7263987
+71,Justicia brandegeeana,,Shrimp Plant,Acanthaceae,Bright Indirect,2000,6000,6,16,28,65,,,unknown,medium,Honolulu-salvia,Mexico,https://www.gbif.org/species/3173122
+72,Ruellia makoyana,,Monkey Plant,Acanthaceae,Medium to Bright,1000,3500,6,16,28,65,,,unknown,medium,Monkey-plant,Brazil,https://www.gbif.org/species/8029019
+73,Strobilanthes auriculata dyeriana,Strobilanthes dyerianus,Persian Shield,Acanthaceae,Bright Indirect,2000,6000,6,16,28,65,,,unknown,medium,Persian shield,Myanmar,https://www.gbif.org/species/3768968
+91,Alocasia cuprea,,Mirror Plant,Araceae,Bright Indirect,2000,6000,7,16,30,55,1,1,aspca_genus_inferred,low,giant caladium,Borneo,https://www.gbif.org/species/5329958
+92,Alocasia macrorrhizos,,Giant Taro,Araceae,Bright Indirect,2000,6000,7,16,30,55,1,1,aspca_genus_inferred,low,Giant taro,Southern Asia,https://www.gbif.org/species/5329904
+93,Alocasia reginula,,Black Velvet Alocasia,Araceae,Medium to Bright,1000,3500,7,16,30,55,1,1,aspca_genus_inferred,low,Black Velvet Alocasia,Borneo,https://www.gbif.org/species/5329895
+96,Anthurium crystallinum,,Crystal Anthurium,Araceae,Bright Indirect,2000,6000,7,16,30,55,1,1,aspca_genus_inferred,low,Crystal Anthurium,Colombia,https://www.gbif.org/species/2872232
+100,Epipremnum pinnatum,,Cebu Blue Pothos,Araceae,Medium to Bright,1000,3500,7,16,30,55,1,1,aspca_genus_inferred,low,Centipede tongavine,Southern Asia,https://www.gbif.org/species/2868272
+102,Monstera adansonii,,Swiss Cheese Vine,Araceae,Medium to Bright,1000,3500,7,16,30,55,1,1,aspca_genus_inferred,low,Adanson's Monstera,Colombia,https://www.gbif.org/species/2868136
+103,Monstera obliqua,,Monstera Obliqua,Araceae,Bright Indirect,2000,6000,7,16,30,55,1,1,aspca_genus_inferred,low,Window-Leaf Monstera,Colombia,https://www.gbif.org/species/2868185
+105,Philodendron erubescens,,Blushing Philodendron,Araceae,Medium to Bright,1000,3500,7,16,30,55,1,1,aspca_genus_inferred,low,Philodendron,Colombia,https://www.gbif.org/species/2871297
+107,Philodendron hederaceum hederaceum,Philodendron micans,Velvet Leaf Philodendron,Araceae,Medium to Bright,1000,3500,7,16,30,55,1,1,aspca_genus_inferred,low,Sweetheart Plant,Middle America,https://www.gbif.org/species/7228286
+108,Philodendron melanochrysum,,Black Gold Philodendron,Araceae,Bright Indirect,2000,6000,7,16,30,55,1,1,aspca_genus_inferred,low,black-gold philodendron,Colombia,https://www.gbif.org/species/2871241
+118,Hedera canariensis,,Algerian Ivy,Araliaceae,Medium to Bright,1000,3500,7,16,30,55,1,1,aspca_genus_inferred,low,Algerian ivy,Canary Islands,https://www.gbif.org/species/3036170
+120,Polyscias fruticosa,,Ming Aralia,Araliaceae,Bright Indirect,2000,6000,7,16,30,55,1,1,aspca_genus_inferred,low,Ming Aralia,Southern Asia,https://www.gbif.org/species/3035652
+124,Chamaedorea seifrizii,,Bamboo Palm,Arecaceae,Medium to Bright,1000,3500,7,16,30,55,,,unknown,medium,Seifriz's Chamaedorea,Middle America,https://www.gbif.org/species/2734708
+129,Agave victoriae-reginae,,Queen Victoria Agave,Asparagaceae,Direct Sun,5000,15000,7,16,30,55,,,unknown,low,Queen Victoria Agave,Mexico,https://www.gbif.org/species/2766696
+148,Senecio macroglossus,,Wax Ivy,Asteraceae,Bright Indirect,2000,6000,7,15,28,50,1,1,aspca_genus_inferred,medium,Cape-ivy,South Africa,https://www.gbif.org/species/3107720
+177,Tradescantia pallida,,Purple Heart,Commelinaceae,Direct Sun,5000,15000,7,16,30,55,1,1,aspca_genus_inferred,low,Wandering Jew,Middle America,https://www.gbif.org/species/2765221

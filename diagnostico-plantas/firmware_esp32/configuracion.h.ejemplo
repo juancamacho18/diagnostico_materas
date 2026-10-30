@@ -1,0 +1,17 @@
+// Copia este archivo como "configuracion.h" y llena tus datos.
+// configuracion.h NO se sube al repositorio (tiene la clave del Wi-Fi y el token).
+
+#define WIFI_SSID          "nombre_de_tu_wifi"
+#define WIFI_CLAVE         "clave_de_tu_wifi"
+
+// IP del PC donde corre el servidor (ipconfig en Windows) y el puerto.
+#define SERVIDOR           "http://192.168.1.20:5000"
+
+// El mismo identificador con el que se registro la matera.
+#define DISPOSITIVO_ID     "ESP32-A3F2"
+
+// Lo imprime utilidades/preparar_demo.py al registrar la matera.
+#define TOKEN_DISPOSITIVO  "pega_aqui_el_token"
+
+// Cada cuanto se envia una lectura.
+#define INTERVALO_MS       5000
