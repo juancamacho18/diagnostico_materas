@@ -1,0 +1,10 @@
+# El servidor ve todo; los dispositivos solo su propio tema, y su id (el
+# client id con el que se conectan) es la llave. Con %c un dispositivo no
+# puede escuchar la respuesta (ni el token) de otro.
+user servidor
+topic readwrite matera/#
+
+user dispositivos
+pattern write matera/%c/emparejar
+pattern write matera/%c/lectura
+pattern read matera/%c/respuesta

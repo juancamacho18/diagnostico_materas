@@ -1,0 +1,32 @@
+// Copia este archivo como "configuracion.h" y llena tus datos.
+// configuracion.h NO se sube al repositorio (tiene la clave del Wi-Fi).
+
+#define WIFI_SSID          "nombre_de_tu_wifi"
+#define WIFI_CLAVE         "clave_de_tu_wifi"
+
+// IP del PC donde corre el servidor (ipconfig en Windows) y el puerto.
+#define SERVIDOR_HOST      "192.168.1.20"
+#define SERVIDOR_PUERTO    5000
+
+// Codigo del dispositivo: es su "usuario y contrasena" ante el servidor.
+// Se entrega con la matera y el cliente lo escribe al registrarla.
+// Generalo con: python utilidades/generar_id_dispositivo.py
+#define DISPOSITIVO_ID     "ESP32-7F3A9C21D4B8"
+
+// Canal con el servidor: TRANSPORTE_WEBSOCKET (por defecto), TRANSPORTE_MQTT o TRANSPORTE_HTTP.
+#define TRANSPORTE         TRANSPORTE_WEBSOCKET
+
+// Solo con TRANSPORTE_MQTT: broker (por defecto el mismo PC del servidor, puerto 1883).
+// #define MQTT_HOST       "192.168.1.20"
+// #define MQTT_PUERTO     1883
+// Si el broker pide usuario y clave:
+// #define MQTT_USUARIO    "matera"
+// #define MQTT_CLAVE      "cambiame"
+
+// 1 = hay pantalla OLED SSD1306 128x64 en GPIO21 (SDA) y GPIO22 (SCL); 0 = sin pantalla.
+#define USAR_OLED          1
+
+// Cada cuanto se envia una lectura.
+#define INTERVALO_MS       5000
+
+// El token NO se configura: el ESP32 lo recibe solo del servidor.

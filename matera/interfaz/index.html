@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Matera</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <header>
+    <h1>Matera</h1>
+    <div id="sesion-barra" hidden><span id="usuario"></span><button id="salir" class="enlace">Salir</button></div>
+  </header>
+
+  <main>
+    <section id="acceso" class="tarjeta">
+      <h2>Ingresar</h2>
+      <form id="form-acceso">
+        <label>Correo <input name="correo" type="email" required autocomplete="username"></label>
+        <label>Clave <input name="clave" type="password" required minlength="6" autocomplete="current-password"></label>
+        <div class="fila">
+          <button type="submit" data-accion="sesion">Entrar</button>
+          <button type="submit" data-accion="usuarios" class="secundario">Crear cuenta</button>
+        </div>
+        <p class="mensaje" id="msg-acceso" role="alert"></p>
+      </form>
+    </section>
+
+    <div id="panel" hidden>
+      <section class="tarjeta">
+        <h2>Mis materas</h2>
+        <ul id="lista-plantas" class="lista"></ul>
+        <form id="form-planta">
+          <h3>Agregar matera</h3>
+          <label>Nombre <input name="nombre" required></label>
+          <label>Especie <select name="especie" id="especies" required></select></label>
+          <label>Código del dispositivo <input name="dispositivo" required placeholder="ESP32-XXXXXXXXXXXX"></label>
+          <button type="submit">Agregar</button>
+          <p class="mensaje" id="msg-planta" role="alert"></p>
+        </form>
+      </section>
+
+      <section class="tarjeta" id="detalle" hidden>
+        <div class="fila entre">
+          <h2 id="detalle-nombre"></h2>
+          <button id="reemparejar" class="secundario">Reemparejar</button>
+        </div>
+        <div class="fila">
+          <span id="badge" class="badge">–</span>
+          <span id="detalle-puntos" class="puntos"></span>
+        </div>
+        <p id="detalle-actualizado" class="suave"></p>
+        <table id="tabla-parametros">
+          <thead><tr><th>Parámetro</th><th>Valor</th><th>Rango</th><th>Estado</th></tr></thead>
+          <tbody></tbody>
+        </table>
+        <ul id="recomendaciones"></ul>
+        <h3>Últimas lecturas</h3>
+        <table id="tabla-historial">
+          <thead><tr><th>Hora</th><th>Humedad</th><th>Luz</th><th>Temp.</th><th>Estado</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </section>
+    </div>
+
+    <section class="tarjeta">
+      <h2>Diagnóstico manual</h2>
+      <form id="form-diagnostico">
+        <label>Especie <select name="especie" id="especies-manual" required></select></label>
+        <label>Humedad (%) <input name="humedad" type="number" step="any" required></label>
+        <label>Luz (lux) <input name="luz" type="number" step="any" required></label>
+        <label>Temperatura (°C) <input name="temperatura" type="number" step="any" required></label>
+        <button type="submit">Diagnosticar</button>
+      </form>
+      <p id="resultado-manual" class="mensaje" role="status"></p>
+    </section>
+  </main>
+  <script src="logica.js"></script>
+</body>
+</html>
